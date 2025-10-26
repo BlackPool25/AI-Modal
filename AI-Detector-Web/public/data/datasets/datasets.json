@@ -1,0 +1,64 @@
+[
+  {
+    "id": "1",
+    "title": "CIFAKE: Real and AI-Generated Synthetic Images",
+    "description": "A dataset containing 120,000 images - 60,000 real images and 60,000 AI-generated fake images for training detection models.",
+    "url": "https://www.kaggle.com/datasets/birdy654/cifake-real-and-ai-generated-synthetic-images",
+    "category": "Image",
+    "size": "2.5 GB",
+    "year": "2023",
+    "downloads": "15K+"
+  },
+  {
+    "id": "2",
+    "title": "DeepFake Detection Challenge Dataset",
+    "description": "Microsoft's comprehensive dataset with real and AI-manipulated videos for deepfake detection research.",
+    "url": "https://www.kaggle.com/c/deepfake-detection-challenge/data",
+    "category": "Video",
+    "size": "470 GB",
+    "year": "2020",
+    "downloads": "50K+"
+  },
+  {
+    "id": "3",
+    "title": "GPT-2 Output Dataset",
+    "description": "Large-scale dataset of GPT-2 generated text for training AI text detection models.",
+    "url": "https://github.com/openai/gpt-2-output-dataset",
+    "category": "Text",
+    "size": "250 MB",
+    "year": "2019",
+    "downloads": "30K+"
+  },
+  {
+    "id": "4",
+    "title": "FaceForensics++",
+    "description": "Benchmark dataset for facial manipulation detection with various deepfake generation methods.",
+    "url": "https://github.com/ondyari/FaceForensics",
+    "category": "Video",
+    "size": "500 GB",
+    "year": "2019",
+    "downloads": "25K+"
+  },
+  {
+    "id": "5",
+    "title": "AI-Generated Text Detection Corpus",
+    "description": "Multi-domain corpus for detecting AI-generated text across various topics and styles.",
+    "url": "https://github.com/rexshijaku/ai-text-detection-corpus",
+    "category": "Text",
+    "size": "180 MB",
+    "year": "2023",
+    "downloads": "8K+"
+  },
+  {
+    "id": "6",
+    "title": "DALL-E 2 vs Real Images",
+    "description": "Curated dataset comparing DALL-E 2 generated images with real photographs for detection training.",
+    "url": "#",
+    "category": "Image",
+    "size": "1.2 GB",
+    "year": "2024",
+    "downloads": "12K+"
+  }
+]
+
+

@@ -1,0 +1,17 @@
+LOGO FILES FOR DETECTX
+======================
+
+Place your logo files here:
+
+1. logo.png       - For light mode (REQUIRED)
+2. logo-dark.png  - For dark mode (OPTIONAL)
+
+Both should be:
+- PNG format with transparent background
+- 512x512px or larger (square)
+- High quality
+
+If you don't provide logo-dark.png, the system will 
+automatically use logo.png for both light and dark modes.
+
+See DARK_MODE_LOGO.md for detailed instructions.
